@@ -25,5 +25,7 @@ public class TestSelenium_17_advanced {
                 state.click();
             }
         }
+
+        driver.quit();
     }
 }
