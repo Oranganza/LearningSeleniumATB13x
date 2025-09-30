@@ -1,4 +1,4 @@
-package com.tester.Lab14_JS_ShadowDOM;
+package com.tester.ex_14_JS_ShadowDOM;
 
 import com.tester.ex03_Selenium_Locators.Utiles.CommonToAll;
 import org.openqa.selenium.JavascriptExecutor;
